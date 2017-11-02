@@ -140,11 +140,4 @@ estudSoltero(X):- casado(X), estudiante(X).
 estudiante(cucho).
 casado(demostenes).
 
-
-% ahora voy a hacer unos pequeños cambios al final
-
-% segundo cambio
-
-% tercer cambio
-
-%un cambio donde otro en master
+% ya borramos esos cambiecines
