@@ -103,7 +103,7 @@ reversa([H|T],L):- reversa(T,Z), concatena(Z,[H],L).
 
 
 palindroma(L) :- reversa(L,L).
-
+%palindroma de una palindroma
 
 :-op(15,xfx,'=>').
 
@@ -142,7 +142,7 @@ casado(demostenes).
 
 
 % ahora voy a hacer unos pequeños cambios al final
-
 % segundo cambio
-
 % tercer cambio
+
+% cuarto quinto y sexto cambio
