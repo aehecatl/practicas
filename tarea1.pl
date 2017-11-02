@@ -1,4 +1,4 @@
-hombre(bart).
+ghombre(bart).
 mujer(lisa).
 mujer(maggie).
 hombre(homero).
@@ -141,6 +141,8 @@ estudiante(cucho).
 casado(demostenes).
 
 
-# ahora voy a hacer unos pequeños cambios al final
+% ahora voy a hacer unos pequeños cambios al final
 
-# segundo cambio
+% segundo cambio
+
+% tercer cambio
