@@ -139,3 +139,6 @@ estudSoltero(X):- casado(X), estudiante(X).
 
 estudiante(cucho).
 casado(demostenes).
+
+
+# ahora voy a hacer unos pequeños cambios al final
