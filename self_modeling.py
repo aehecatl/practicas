@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#agrego una klinea aqui
+
 '''
 The self-optimization is mainly explored in the following works:
 
